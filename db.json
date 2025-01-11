@@ -1,14 +1,23 @@
 {
-  "socials":[
-    { "social_img": "", "link": "Facebook.com" },
-    { "social_img": "", "link": "Instagram.com" },
-    { "social_img": "", "link": "LinkedIn.com" },
-    { "social_img": "", "link": "x.com" }
+  "links":[
+    { "id": 1, "icon": "pi pi-facebook", "bottomPercentage": "bottom-[17rem]", "link": "Facebook.com" },
+    { "id": 2, "icon": "pi pi-facebook", "bottomPercentage": "bottom-[14rem]", "link": "Instagram.com" },
+    { "id": 3, "icon": "pi pi-facebook", "bottomPercentage": "bottom-[11rem]", "link": "LinkedIn.com" },
+    { "id": 4, "icon": "pi pi-facebook", "bottomPercentage": "bottom-[8rem]", "link": "x.com" }
   ],
    "images":[
     { "image": "Post 1" },
     { "image": "Post 2" },
-    { "image": "Post 3" }
+    { "image": "Post 3" },
+    { "image": "Post 4" },
+    { "image": "Post 5" },
+    { "image": "Post 6" },
+    { "image": "Post 7" },
+    { "image": "Post 8" },
+    { "image": "Post 9" },
+    { "image": "Post 10" },
+    { "image": "Post 11" },
+    { "image": "Post 12" }
   ],
  "other_links":[
     { "hire_me": "linkedin.com" }
