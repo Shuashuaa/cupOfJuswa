@@ -16,8 +16,7 @@
     { "image": "Post 9" },
     { "image": "Post 10" },
     { "image": "Post 11" },
-    { "image": "Post 12" },
-    // { "image": "add new link here" },
+    { "image": "Post 12" }
   ],
   "links":[
     { "id": 1, "icon": "pi pi-facebook", "bottomPercentage": "bottom-[17rem]", "link": "Facebook.com" },
