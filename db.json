@@ -1,9 +1,9 @@
 {
   "socials":[
-    { "link": "Facebook.com" },
-    { "link": "Instagram.com" },
-    { "link": "LinkedIn.com" },
-    { "link": "x.com" }
+    { "social_img": "", "link": "Facebook.com" },
+    { "social_img": "", "link": "Instagram.com" },
+    { "social_img": "", "link": "LinkedIn.com" },
+    { "social_img": "", "link": "x.com" }
   ],
    "images":[
     { "image": "Post 1" },
